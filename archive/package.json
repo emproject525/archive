@@ -17,6 +17,7 @@
     "copy-to-clipboard": "^3.3.3",
     "date-fns": "^3.0.3",
     "eslint": "^8.56.0",
+    "fabric": "^6.4.2",
     "prettier": "^3.1.1",
     "qs": "^6.11.2",
     "react": "^18.2.0",
